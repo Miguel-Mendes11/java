@@ -33,6 +33,7 @@ public class array {
             System.out.println("O protagonista do anime " +animes[y]+" se chama "+nomes[y]);
         }
 
+        //ideal para informações pré estabelecidas, caso não, evitar utilizar
         int [] number = {1,3,8,42,76,354};
         for (int i=0; i < number.length; i++){
             System.out.println(number[i]);
